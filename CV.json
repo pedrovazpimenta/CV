@@ -1,0 +1,127 @@
+{
+    "name": "Pedro Vaz Pimenta",
+    "eductaion": {
+        "degree": "Mathematics",
+        "degree_type": "BSc",
+        "university": "USP",
+        "university_department": "IME",
+        "time_period": "Feb, 2019 - Dec 2021"
+    },
+    "contact_info": {
+        "email": [
+            "pedro.vaz.pimenta@alumni.usp.br",
+            "pvazpimenta@gmail.com"
+        ],
+        "phone_whatsapp": 5516992283451,
+        "github": "github.com/pedrovazpimenta",
+        "linkedin": "www.linkedin.com/in/pedro-vaz-pimenta/",
+        "CEP": 13231360,
+        "available_to_work_in": "São Paulo and near cities"
+    },
+    "knowledge": {
+        "mathematical modeling": [
+            "linear optimization",
+            "nonlinear optimization",
+            "combinatorial optimization",
+            "operation research",
+            "numerical methods"
+        ],
+        "data analysis": [
+            "data visualization",
+            "data cleaning",
+            "machine learning",
+            "regular expressions",
+            "deep learning"
+        ],
+        "statistics": [
+            "descriptive statistics",
+            "probability",
+            "distributions",
+            "law of large numbers",
+            "estimators and hypothesis tests"
+        ],
+        "programming": [
+            "Object oriented programming",
+            "Clean Code",
+            "logical programming",
+            "statistical programming",
+            "data structures",
+            "databases",
+            "algorithms",
+            "PEP 8"
+        ]
+    },
+    "languages": {
+        "portuguese": "native",
+        "english": "advanced/C1"
+    },
+    "experimence": [
+        {
+            "company": "Poatek",
+            "position": "Data Scientist",
+            "description": "Working with:
+
+            - Natural Language Processing (NLP) for Sensitive Data Extraction (such as PII and PHI) and Anonymization on texts using Named Entity Recognition based on rules and Deep Learning models.
+            
+            - Computer Vision techniques (Image Classification and Segmentation) for Document detection, image classification and OCR.",
+            "time_period": "Dec, 2021 - current"
+        },
+        {
+            "company": "Particular Idiomas",
+            "position": "Private Tutor",
+            "description": "Private tutoring for students of all levels with difficulties in mathematics.",
+            "time_period": "Jan, 2016 - Jul, 2021"
+        }
+    ],
+    "worked_with": [
+        "regression models",
+        "fuzzy search",
+        "fuzzy clustering",
+        "fuzzy word matching",
+        "RegEx patterns",
+        "risk and confidence analysis",
+        "text geoparsing",
+        "data visualization",
+        "ML-Ops",
+        "backend",
+        "OCR",
+        "computer vision",
+        "natural language processing"
+    ],
+    "programming languages": [
+        "Python",
+        "R",
+        "C/C++",
+        "Prolog",
+        "ProbLog",
+        "LaTeX",
+        "MySQL"
+    ],
+    "technologies": [
+        "NumPy",
+        "Pandas",
+        "MatplotLib",
+        "SciKit-Learn",
+        "Pytorch",
+        "Keras",
+        "Tensorflow",
+        "OpenCV",
+        "GIT",
+        "Docker",
+        "Flask",
+        "Celery",
+        "AWS",
+        "Azure",
+        "Azure Dev-Ops",
+        "Scrum",
+        "BERT",
+        "GPT"
+    ],
+    "interests": [
+        "data analysis",
+        "big data",
+        "large language models",
+        "computer vision",
+        "natural language processing"
+    ]
+}
