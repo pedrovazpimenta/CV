@@ -59,11 +59,7 @@
         {
             "company": "Poatek",
             "position": "Data Scientist",
-            "description": "Working with:
-
-            - Natural Language Processing (NLP) for Sensitive Data Extraction (such as PII and PHI) and Anonymization on texts using Named Entity Recognition based on rules and Deep Learning models.
-            
-            - Computer Vision techniques (Image Classification and Segmentation) for Document detection, image classification and OCR.",
+            "description": "Working with:\n - Natural Language Processing (NLP) for Sensitive Data Extraction (such as PII and PHI) and Anonymization on texts using Named Entity Recognition based on rules and Deep Learning models.\n- Computer Vision techniques (Image Classification and Segmentation) for Document detection, image classification and OCR.",
             "time_period": "Dec, 2021 - current"
         },
         {
