@@ -111,7 +111,11 @@
         "Azure Dev-Ops",
         "Scrum",
         "BERT",
-        "GPT"
+        "Transformers",
+        "spaCy",
+        "Flask",
+        "Redis",
+        "Tika",
     ],
     "interests": [
         "data analysis",
